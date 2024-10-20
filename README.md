@@ -14,7 +14,7 @@ Before you begin, ensure you have the following installed on your system:
 
 ## Setup Instructions
 
-Clone the git repo using ```git clone <repo>``` and checkout branch to develop by ```git checkout develop```
+Clone the git repo using ```git clone https://github.com/Robin440/chromaDB.git``` and checkout branch to develop by ```git checkout develop```
 
 ### 1. Create a Virtual Environment
 
