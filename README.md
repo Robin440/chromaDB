@@ -14,6 +14,8 @@ Before you begin, ensure you have the following installed on your system:
 
 ## Setup Instructions
 
+Clone the git repo using ```git clone <repo>``` and checkout branch to develop by ```git checkout develop```
+
 ### 1. Create a Virtual Environment
 
 For **Windows**:
@@ -66,3 +68,7 @@ Similarity Score: 0.85
 - ChromaDB for providing a lightweight vector database solution.
 - Hugging Face's SentenceTransformers for easy-to-use text embeddings.
 - Termcolor for making the output more visually appealing.
+
+
+This `README.md` provides all the necessary instructions and context for setting up and running your ChromaDB project. Let me know if you need further modifications!
+
